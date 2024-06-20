@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": “loyar_passenger”,
+    "package_name": "com.mm.mti.taxi",
+    "sha256_cert_fingerprints":
+    ["B8:07:FB:70:5F:51:07:D0:DE:15:75:16:39:E7:92:51:2B:DB:05:DE:91:EF:99:E4:FF:61:2D:C4:F6:71:89:FA"]
+  }
+}]
